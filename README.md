@@ -1,2 +1,6 @@
-# Qualit-du-vin
-Les "K plus proches voisins" appliqués à la prédiction de la qualité d'un vin
+# Wine Quality
+Applying K-Nearest-Neighbours model to wine quality prediction.
+
+Challenge is to reach a 61% accuracy.
+
+So far we have reached 60.5%.
